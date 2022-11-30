@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\HW-indexer\bin\Debug\net6.0\HW-indexer.exe
+C:\Users\User\source\repos\HW-indexer\bin\Debug\net6.0\HW-indexer.deps.json
+C:\Users\User\source\repos\HW-indexer\bin\Debug\net6.0\HW-indexer.runtimeconfig.json
+C:\Users\User\source\repos\HW-indexer\bin\Debug\net6.0\HW-indexer.dll
+C:\Users\User\source\repos\HW-indexer\bin\Debug\net6.0\HW-indexer.pdb
+C:\Users\User\source\repos\HW-indexer\obj\Debug\net6.0\HW-indexer.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\HW-indexer\obj\Debug\net6.0\HW-indexer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\HW-indexer\obj\Debug\net6.0\HW-indexer.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\HW-indexer\obj\Debug\net6.0\HW-indexer.AssemblyInfo.cs
+C:\Users\User\source\repos\HW-indexer\obj\Debug\net6.0\HW-indexer.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\HW-indexer\obj\Debug\net6.0\HW-indexer.dll
+C:\Users\User\source\repos\HW-indexer\obj\Debug\net6.0\refint\HW-indexer.dll
+C:\Users\User\source\repos\HW-indexer\obj\Debug\net6.0\HW-indexer.pdb
+C:\Users\User\source\repos\HW-indexer\obj\Debug\net6.0\HW-indexer.genruntimeconfig.cache
+C:\Users\User\source\repos\HW-indexer\obj\Debug\net6.0\ref\HW-indexer.dll
